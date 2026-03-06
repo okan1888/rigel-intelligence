@@ -1,6 +1,14 @@
+# Python
 venv/
 __pycache__/
 *.pyc
+*.pyo
+
+# Environment variables
 .env
+
+# Node
 node_modules/
-*.txt
+
+# OS
+.DS_Store
